@@ -1,5 +1,6 @@
 body {
-    font: 20px Montserrat, sans-serif;
+    font-size: 20px;
+    font-family: 'Open Sans';
     line-height: 1.8;
     color: #f5f6f7;
 }
