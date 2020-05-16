@@ -11,20 +11,30 @@ p {
     margin-bottom: 45px;
 }
 .bg-1 { 
-    background-color: #1abc9c; /* Green */
+    background-color: #2db5b9; 
     color: #ffffff;
 }
 .bg-2 { 
-    background-color: #474e5d; /* Dark Blue */
+    background-color: #474e5d; 
     color: #ffffff;
 }
 .bg-3 { 
-    background-color: #ffffff; /* White */
-    color: #555555;
+    background-color: #c43b3b; 
+    color: #fff;
 }
 .bg-4 { 
-    background-color: #2f2f2f; /* Black Gray */
+    background-color: #19886c; 
     color: #fff;
+}
+
+.bg-5 { 
+    background-color: #9b637d; 
+    color: #fff;
+}
+
+.bg-6 { 
+    background-color: #f1ecec; 
+    color: #000000;
 }
 .container-fluid {
     padding-top: 70px;
