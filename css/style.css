@@ -131,4 +131,10 @@ p {
   letter-spacing: 0.05rem;
   
   &:focus { outline: 2px dotted #55d7dc; }
+    
+  background: #1f1a25;
+  display: flex; 
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
 }
