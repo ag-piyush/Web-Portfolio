@@ -16,7 +16,7 @@ p {
 }
 .bg-2 { 
     background-color: #E0FFFF; 
-    color: #ffffff;
+    color: #191970;
 }
 .bg-3 { 
     background-color: #87CEEB; 
@@ -24,7 +24,7 @@ p {
 }
 .bg-4 { 
     background-color: #E0FFFF; 
-    color: #fff;
+    color: #191970;
 }
 
 .bg-5 { 
@@ -34,7 +34,7 @@ p {
 
 .bg-6 { 
     background-color: #E0FFFF; 
-    color: #000000;
+    color: #191970;
 }
 .container-fluid {
     padding-top: 70px;
