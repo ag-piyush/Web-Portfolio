@@ -15,26 +15,26 @@ p {
     color: #ffffff;
 }
 .bg-2 { 
-    background-color: #E0FFFF; 
-    color: #191970;
+    background-color: #ffffff; 
+    color: #708090;
 }
 .bg-3 { 
-    background-color: #87CEEB; 
+    background-color: #708090; 
     color: #fff;
 }
 .bg-4 { 
-    background-color: #E0FFFF; 
-    color: #191970;
+    background-color: #ffffff; 
+    color: #708090;
 }
 
 .bg-5 { 
-    background-color: #87CEEB; 
+    background-color: #708090; 
     color: #fff;
 }
 
 .bg-6 { 
-    background-color: #E0FFFF; 
-    color: #191970;
+    background-color: #ffffff; 
+    color: #708090;
 }
 .container-fluid {
     padding-top: 70px;
